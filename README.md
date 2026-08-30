@@ -26,6 +26,7 @@ M.Tech student in VLSI & Nanoelectronics at the **Indian Institute of Technology
 
 | Project | Description |
 |---|---|
+| [ahb2apb_bridge](https://github.com/LenOfAl/ahb2apb_bridge) | Dual-clock AHB-Lite → APB bridge with async CDC FIFOs, taken through the full RTL-to-GDSII flow: Genus synthesis, Innovus P&R, DRC/LVS-clean GDSII stream-out |
 | [DA_based_LMS_Adaptive_Filter](https://github.com/LenOfAl/DA_based_LMS_Adaptive_Filter) | 4-tap Distributed-Arithmetic adaptive FIR filter in Verilog with multiplier-less sign-LMS weight update, on Xilinx Vivado / ZedBoard |
 | [2D_Convolution](https://github.com/LenOfAl/2D_Convolution) | FSM-controlled 3×3 2D convolution engine for streaming image filtering (edge detection), on Xilinx Vivado / ZedBoard |
 
