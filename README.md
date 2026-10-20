@@ -33,7 +33,7 @@ M.Tech student in VLSI & Nanoelectronics at the **Indian Institute of Technology
 | Project | Description |
 |---|---|
 | [2-Stage Miller-Compensated Op-Amp](https://github.com/LenOfAl/two_stage_opamp_180nm) | Designed in Cadence Virtuoso using a gm/Id-based sizing approach; achieved 60 dB gain, 150 MHz unity-gain bandwidth, and <0.5 mW power consumption. Layout done with common-centroid methodology |
-| [Bandgap Reference(https://github.com/LenOfAl/bandgap_reference_180nm) | CMOS bandgap voltage reference designed in Cadence Virtuoso, with curvature-compensation and trim-range analysis to minimize PVT-induced variation |
+| [Bandgap Reference](https://github.com/LenOfAl/bandgap_reference_180nm) | CMOS bandgap voltage reference designed in Cadence Virtuoso, with curvature-compensation and trim-range analysis to minimize PVT-induced variation |
 | [LDO](https://github.com/LenOfAl/ldo_regulator_180nm) | CMOS LDO regulator designed in Cadence Virtuoso, verified for loop stability via phase margin analysis across process corners (TT/FF/SS) and load conditions |
 
 ## Contact
